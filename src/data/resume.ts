@@ -23,7 +23,7 @@ import {
   SiMongodb,
   SiJsonwebtokens,
 } from 'react-icons/si';
-import { TbTable, TbFileTypeXls, TbFileTypePdf, TbDatabase, TbUpload, TbHome, TbEdit } from 'react-icons/tb';
+import { TbTable, TbFileTypeXls, TbFileTypePdf, TbDatabase, TbUpload } from 'react-icons/tb';
 import type { Skill, ExperienceItem, Project, EducationItem } from '../types';
 
 // nxtwatch img 
