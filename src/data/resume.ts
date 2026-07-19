@@ -73,7 +73,7 @@ export const profile = {
   email: 'satishmalaganti8247@gmail.com',
   linkedin: 'https://www.linkedin.com/in/satishmalaganti/',
   github: 'https://github.com/malagantisatish',
-  resumeUrl: '/resume.pdf',
+  resumeUrl: '/satish_malaganti_software_developer_resume.pdf',
   summary:
     "Frontend developer with 2+ years building responsive, data-heavy web applications in React and TypeScript. I spend most of my time in AG Grid tables, file-handling flows, and the kind of UI work that has to stay fast under real data. I like clean component architecture, and I like it more when it actually ships.",
 };
